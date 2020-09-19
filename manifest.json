@@ -1,0 +1,10 @@
+{
+  "name": "Superscript",
+  "id": "785877727663994012",
+  "api": "1.0.0",
+  "main": "code.js",
+  "menu": [
+    {"name": "Add Superscript", "command": "add"},
+    {"name": "Remove Superscript", "command": "remove"}
+  ]
+}
