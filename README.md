@@ -20,3 +20,5 @@ The plugin has two menu commands, "Add Superscript" and "Remove Superscript". Th
 3. Using the Figma Desktop app, add this plugin to Figma. You can do this from your list of plugins under your user profile. Under the "In Development" header, choose "Create new Plugin" by clicking the + button. From here you want to point to the `manifest.json` file in your plugin directory.
 4. (Optional) If you are on a Figma Organization plan, upload the font as a Shared Font, and publish your plugin privately to your company.
 
+## Future plans
+I don't have any future plans for this, but would happy to consider supporting it further if there were additional characters or subscript substitutions that would be helpful to someone. Unfortunately my trials ran out for font-editing software and it is hard to justify the cost for such a small project. 
